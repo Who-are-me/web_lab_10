@@ -1,0 +1,6 @@
+.mybox {
+    width: 40px;
+    height: 200px;
+    position: relative;
+    background-color: green;
+}
